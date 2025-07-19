@@ -27,4 +27,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: myapp-jar
-          path: target\my-maven-app-1.0.0.jar
+          path: target/myapp-1.0-SNAPSHOT.jar
